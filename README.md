@@ -6,8 +6,10 @@ Aprender en equipo: Si alguien desea colaborar con nuevas funciones en esta apli
 Si algún estudiante busca problemas de programación orientada a objetos para practicar en sus ratos libres bien puede tomar este código, colaborar con él o simplemente tomar el enunciado que dejaré aquí abajo.
 
 Enunciado del problema
+
 Se quiere construir una aplicación para administrar un parqueadero. Dicho parqueadero cuenta con 4 puestos, cada puesto está enumerado del 1 al 4. Cada puesto puede o no parquear un carro. El parqueadero tiene una tarifa por hora o fracción de hora, que cambia cada vez que el gobierno lo autoriza. Cada carro se identifica por su placa, pero también se debe conocer la hora y minuto en la que entró, que corresponde a un valor entre 6 y 20, dado que el parqueadero está abierto entre 6 de la mañana y 9 de la noche. Se hace mención que en el momento de liquidar así la persona tenga 10 minutos, se le cobra la hora fracción.
 Se espera que con la aplicación se pueda hacer lo siguiente:
+
 Parquear vehículo (para el caso se le asigna un puesto libre al vehículo, y se solicita los datos relacionados al vehículo a parquear, y al final si pudo parquear se le informa en que puesto, y en caso que no exista cupo se le muestra un mensaje informando la falta de cupo).
 Retirar carro de parqueadero, para el caso el sistema debe informar cuanto debe cancelar la persona.
 El sistema debe mostrar al administrador del parqueadero el total recaudado en dinero.
